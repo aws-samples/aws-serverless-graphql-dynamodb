@@ -6,8 +6,13 @@ This sample can be used as reference to implement GraphQL API using API GW/Lambd
 
 ## Pre-requisites:
 
-1.  You need to have SAM CLI Installed already. Follow the link for details and installation of SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
-2.  Docker
+1. You need to have AWS Account and setup Access keys
+2. You need to have SAM CLI Installed already. Follow the link for details and installation of SAM CLI: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html
+3.  Docker (To do build)
+
+## Architecture
+
+![Architecture](images/graphql.png)
 
 ## Steps to setup
 
